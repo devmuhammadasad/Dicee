@@ -1,1 +1,1 @@
-Created by Muhammad Asad
+2 Dice Roller App created by Muhammad Asad
